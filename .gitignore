@@ -1,0 +1,15 @@
+/target
+/.settings
+/.externalToolBuilders
+.classpath
+.project
+.tern-project
+/.vscode
+/logs
+.idea
+*.iml
+.DS_Store
+*.jar
+web/META-INF/context.xml
+web/WEB-INF/classes
+.factorypath
